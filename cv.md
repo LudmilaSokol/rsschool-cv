@@ -1,4 +1,4 @@
-![photo](assest/img/foto.jpg "Моя фотография")
+![photo](assets/img/foto.jpg "Моя фотография")
 # Sokolovskaia Ludmila
 
 ## Contakts:
@@ -59,7 +59,7 @@ One-time: adaptive modernization of a multi-page website
 ## Education:
 * RS-School. JavaScript/Front-end. Stage 0
 
-      ![results](assest/img/certificat_st0.png "results")
+    ![results](assets/img/certificat_st0.png "results")
 	  
 * Perm Pedagogical Institute. Mathematics and Computer science
 * BE-QA Testers School
@@ -67,19 +67,19 @@ One-time: adaptive modernization of a multi-page website
 * HEXLET.
     + "JavaScript Basics"
       
-      ![results](assest/img/hexlet_js_basics.png "results")
+      ![results](assets/img/hexlet_js_basics.png "results")
       
         ********
       
     +  "Command Line Basics"
       
-       ![results](assest/img/hexlet_bash_basics.png "results")
+       ![results](assets/img/hexlet_bash_basics.png "results")
        
         ********
        
     +  "Introduction to Git"
       
-       ![results](assest/img/hexlet_git_basics.png "results")
+       ![results](assets/img/hexlet_git_basics.png "results")
 
 ## Languages:
 * Russian - native
